@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Enriqueta:wght@500;600;700&family=Lato&display=swap');
+
+p{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #000000;
+}
+
+h1{
+    font-family: 'Enriqueta', serif;
+    font-weight: 700;
+    font-size: 64px;
+    color: #000000;
+}
+
+h2{
+    font-family: 'Enriqueta', serif;
+    font-weight: 600;
+    font-size: 48px;
+    color: #000000;    
+}
+
+h3{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+    color: #000000;
+
+}
+
+h4{
+    font-family: 'Enriqueta', serif;
+    font-weight: 500;
+    font-size: 30px;
+    color: #000000;
+}
+
+h5{
+font-family: 'Enriqueta', serif;
+font-weight: 500;
+font-size: 36px;
+color: white;
+}
+
+button{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+    width: 110px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#header{
+    background-color: #FACB1E;
+}
+
+#nav{
+    color: black;
+    float: left;
+}
+
+#ul{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #000000;
+}
+
+#li{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+#informação-contato-f{
+    background-color: #FACB1E;
+    width: 100%;
+}
+
+#informação-contato{
+    background-color: #FACB1E;
+}
+
+#icon{
+    color: black;
+}
+
+#Copyright{
+    margin-top: 10%;
+    text-align: center;
+}
+
+#nossos-serviços-f{
+    background-color: black;
+}
+
+#nossos-serviços{
+    background-color: black;
+    margin-top: 5%;
+}
+
+#field{
+    border: 2px solid black;
+    width: 602px;
+    margin: 0 auto;
+}
+
+#nome{
+    width: 438px;
+    border: 2px solid black;
+    height: 50px;
+    margin-top: 5%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    margin-left: 82px;
+    padding-left: 18px;
+}
+
+#email{
+    width: 438px;
+    height: 50px;
+    border: 2px solid black;
+    margin-top: 5%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    margin-left: 82px;
+    padding-left: 18px;
+}
+
+#mensagem{
+    width: 438px;
+    border: 2px solid black;
+    margin-top: 5%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    margin-left: 82px;
+    padding-left: 18px;
+}
+
+#mapa{
+    width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+@media screen and (max-width: 768px) {
+    #foto-home{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #foto-home{
+        display: none;
+    }
+}
